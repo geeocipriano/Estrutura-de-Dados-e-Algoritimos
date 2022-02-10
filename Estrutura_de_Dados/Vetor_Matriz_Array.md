@@ -1,7 +1,7 @@
 <h4 align="center"> 
 	Descrição
 </h4>
-<p>São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo.</p>
+São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo
 
     
 
