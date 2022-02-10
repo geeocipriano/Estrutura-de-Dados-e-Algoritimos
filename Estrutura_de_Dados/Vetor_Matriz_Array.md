@@ -1,11 +1,8 @@
 <h4 align="center"> 
 	Descrição
 </h4>
-São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo
-
-    
-
-Exemplo em Java para criar e buscar tamanho do array.
+<p>São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo
+Exemplo em Java para criar e buscar tamanho do array.</P>
     
 
         public class TamanhoArray {
