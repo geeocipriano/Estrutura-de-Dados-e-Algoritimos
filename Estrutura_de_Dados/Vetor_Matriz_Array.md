@@ -3,7 +3,7 @@ Descriçao:
 
     Exemplo: 5 valores inteiros agrupadas em um array.
 
-    '''
+    ```
     public class TamanhoArray {
 
     public static void main(String[] args) {
@@ -18,4 +18,4 @@ Descriçao:
         System.out.println("\nTamanho do ArrayUm = "+arrayUm.length);
     }
 }
-    '''
+    ```
