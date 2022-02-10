@@ -1,9 +1,9 @@
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	Descrição
 </h4>
+<p>São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo.</p>
 
-Descriçao
-    São usadas quando existem muitas variaveis do mesmo tipo em um algoritimo.
+    
 
 Exemplo em Java para criar e buscar tamanho do array.
     
